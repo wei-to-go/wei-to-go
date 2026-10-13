@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **wei-to-go/wei-to-go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,17 +20,20 @@ I'm a second year at Northeastern University majoring in Computer Science and Ph
 
 
 ## 🧰 Tech Stack
+
 **Languages:** Python, Java, C#, R  
-**Frameworks/Libraries** Pandas, Numpy, Pygame, Matplotlib
+
+**Frameworks/Libraries:** Pandas, Numpy, Pygame, Matplotlib 
+
 **Tools/Systems:** Git, VS Code, Unity Engine
 
-
+<!--
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wei-to-go&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wei-to-go&layout=compact)
-
+-->
 
 ## 🌐 Connect With Me
-- Email
+- Email: dewdney.a@northeastern.edu
 - LinkedIn: https://www.linkedin.com/in/wei-dewdney-971b7a311
