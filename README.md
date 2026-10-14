@@ -23,7 +23,7 @@ I'm a second year at Northeastern University majoring in Computer Science and Ph
 
 **Languages:** Python, Java, C#, R  
 
-**Frameworks/Libraries:** Pandas, Numpy, Pygame, Matplotlib 
+**Frameworks/Libraries:** Pandas, Numpy, Pygame, Matplotlib, JavaFX 
 
 **Tools/Systems:** Git, VS Code, Unity Engine
 
